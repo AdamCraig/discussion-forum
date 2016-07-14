@@ -1,3 +1,7 @@
+![Homepage](screenshot1.png)
+
+![Comment Form](screenshot2.png)
+
 # _Robotic Discussion Forum_
 
 #### _An Android app that allows users view and comment on a message board made for robots!_
